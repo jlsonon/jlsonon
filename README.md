@@ -1,24 +1,22 @@
 <div align="center">
 
-# Jericho Sonon
-### Software & Solutions Engineer • Full-Stack Systems Builder
-**Quezon City, Philippines** • [jlsonon.xyz](https://jlsonon.xyz) • [LinkedIn](https://www.linkedin.com/in/jlsonon/) • [Medium](https://medium.com/@jlsonon12)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=Jericho%20Sonon&fontSize=42&fontColor=f59e0b&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Solutions%20Engineer&descSize=16&descColor=a3a3a3&descAlignY=60" width="100%" />
 
 <!-- Interactive Typing Header -->
 <a href="https://jlsonon.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Building+systems+that+replace+manual+work;Architecting+low-latency+POS+%26+SaaS+platforms;Keebs+%7C+Solar+Spartz+%7C+FitLocker;Engineering+for+reliability+and+throughput" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F59E0B&center=true&vCenter=true&width=520&lines=Building+systems+that+replace+manual+work;Architecting+low-latency+POS+%26+SaaS+platforms;Keebs+%7C+Solar+Spartz+%7C+FitLocker;Engineering+for+reliability+and+throughput" alt="Typing Tagline" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://jlsonon.xyz"><img src="https://img.shields.io/badge/Website-jlsonon.xyz-f59e0b?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jlsonon/"><img src="https://img.shields.io/badge/LinkedIn-Jericho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jlsonon12@gmail.com"><img src="https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://cal.com/jlsonon"><img src="https://img.shields.io/badge/Schedule-Consultation-333333?style=for-the-badge&logo=calendar&logoColor=white" alt="Cal" /></a>
+  <a href="mailto:jlsonon12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://cal.com/jlsonon"><img src="https://img.shields.io/badge/Schedule-Call-222222?style=for-the-badge&logo=calendar&logoColor=white" alt="Cal" /></a>
 </p>
 
-<!-- Tech Stack Icons -->
+<!-- Pill Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,firebase,swift,cs,docker,figma,linux&theme=dark" alt="Tech Stack" />
@@ -32,11 +30,12 @@
 ### Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlsonon/jlsonon/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlsonon/jlsonon/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jlsonon/jlsonon/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlsonon&theme=github-dark&hide_border=true&color=f59e0b" alt="Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlsonon&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=262626&title_color=f59e0b&icon_color=f59e0b&text_color=d4d4d4" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlsonon&layout=compact&theme=dark&bg_color=0a0a0a&border_color=262626&title_color=f59e0b&text_color=d4d4d4" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -68,6 +67,14 @@
 
 </details>
 
+```text
+[Current Desk Setup]
+Daily Driver    : MacBook Pro + Custom 65% Mechanical Keyboard
+Sound Profile   : Holy Panda 67g tactile switches (sub-5ms CoreAudio latency)
+Status          : Engineering custom POS & business platforms
+Beverage        : Fresh pour-over coffee
+
+```
 ---
 
 <div align="center">
