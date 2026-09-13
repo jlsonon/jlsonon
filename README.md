@@ -6,7 +6,7 @@
 
 <!-- Interactive Typing Header -->
 <a href="https://jlsonon.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F59E0B&center=true&vCenter=true&width=550&lines=Building+systems+that+replace+manual+work;Architecting+low-latency+POS+%26+SaaS+platforms;Keebs+%7C+Solar+Spartz+%7C+FitLocker+%7C+LaundryPOS;Engineering+for+reliability+and+throughput" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F59E0B&center=true&vCenter=true&width=560&lines=Building+systems+that+replace+manual+work;Architecting+low-latency+POS+%26+SaaS+platforms;AI+Systems+%7C+Claude+%7C+Gemini+%7C+Codex;Keebs+%7C+QOTA+%7C+Solar+Spartz+%7C+FitLocker;Engineering+for+reliability+and+throughput" alt="Typing Tagline" />
 </a>
 
 <br/><br/>
@@ -18,7 +18,14 @@
   <a href="https://cal.com/jlsonon"><img src="https://img.shields.io/badge/Schedule-Call-222222?style=for-the-badge&logo=calendar&logoColor=white" alt="Cal" /></a>
 </p>
 
-<!-- Pill Tech Stack Icons -->
+<!-- AI & Agent Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Codex-OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+</p>
+
+<!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,firebase,swift,cs,docker,figma,linux&theme=dark" alt="Tech Stack" />
@@ -29,51 +36,36 @@
 
 ---
 
-### Flagship Production Systems
+### Flagship Systems
 
-| System | Role & Focus | Core Tech Stack | Links |
+| System | What It Is | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Keebs** | Native Mechanical Keyboard Audio & Haptics Engine | `Swift 6`, `AVAudioEngine`, `CoreHaptics`, `C# .NET` | [Source](https://github.com/jlsonon/keebs) • [Case Study](https://jlsonon.xyz/projects/keebs) |
-| **Solar Spartz** | Turnkey Solar Platform & Savings Calculator | `Next.js 15`, `TypeScript`, `Tailwind CSS` | [Site](https://solarspartz.vercel.app/) • [Case Study](https://jlsonon.xyz/projects/solarspartz) |
-| **FitLocker** | Multi-Branch Commercial Gym Management & POS | `Next.js`, `Firebase`, `Tailwind CSS`, `QR Engine` | [Case Study](https://jlsonon.xyz/projects/fitlocker) |
-| **Laundry POS** | Commercial Laundromat Order Queue & Thermal Receipt POS | `Next.js`, `PostgreSQL`, `Thermal ESC/POS` | [Case Study](https://jlsonon.xyz/projects/laundry-pos) |
-| **Prime Reviewer PH** | Civil Service Licensure Diagnostic Exam Engine | `Next.js`, `TypeScript`, `Analytics` | [Source](https://github.com/jlsonon/primereviewerph) • [Case Study](https://jlsonon.xyz/projects/prime-reviewer-ph) |
-| **OpticBooth** | Interactive Digital Photobooth Kiosk Platform | `Next.js`, `Canvas API`, `WebRTC`, `QR Delivery` | [Source](https://github.com/jlsonon/photobooth) • [Case Study](https://jlsonon.xyz/projects/opticbooth) |
-| **LuckyBingo** | Real-Time Live Event Interactive Bingo Engine | `Next.js`, `WebSockets`, `Canvas API` | [Source](https://github.com/jlsonon/bingogame) • [Case Study](https://jlsonon.xyz/projects/bingogame) |
-| **BarangayConnect** | Local Community Portal & Document Issuance Engine | `Next.js`, `PostgreSQL`, `Tailwind CSS` | [Case Study](https://jlsonon.xyz/projects/barangayconnect) |
-| **MochiMoney** | Personal Budget & Cash-Flow Telemetry Platform | `Next.js`, `TypeScript`, `Tailwind CSS` | [Case Study](https://jlsonon.xyz/projects/mochimoney) |
+| **Keebs** | Keyboard audio & haptics engine | `Swift 6`, `AVAudioEngine` | [Site](https://keebs.live) • [Code](https://github.com/jlsonon/keebs) |
+| **QOTA** | AI quota HUD for Claude, Gemini, Codex | `Electron`, `AppKit` | [Site](https://qota.live) • [Code](https://github.com/jlsonon/qota) |
+| **Solar Spartz** | Solar EPC platform & ROI calculator | `Next.js 15`, `React 19` | [Site](https://solarspartz.vercel.app/) • [Case Study](https://jlsonon.xyz/projects/solarspartz) |
+| **FitLocker** | Gym POS & QR check-in kiosks | `Next.js`, `Firebase` | [Site](https://fitlocker-5a5ee.web.app/) • [Case Study](https://jlsonon.xyz/projects/fitlocker) |
+| **Laundry POS** | Laundromat order queue & thermal POS | `Next.js`, `PostgreSQL` | [Site](https://laundryos-xi.vercel.app/login) • [Case Study](https://jlsonon.xyz/projects/laundry-pos) |
+| **Prime Reviewer** | Licensure diagnostic engine (500+ users) | `Next.js`, `TypeScript` | [Site](https://primereviewerph.online) • [Case Study](https://jlsonon.xyz/projects/prime-reviewer-ph) |
+| **OpticBooth** | Digital photobooth kiosk platform | `Canvas API`, `WebRTC` | [Code](https://github.com/jlsonon/photobooth) • [Case Study](https://jlsonon.xyz/projects/opticbooth) |
+| **LuckyBingo** | Live event multiplayer bingo engine | `WebSockets`, `Canvas` | [Code](https://github.com/jlsonon/bingogame) • [Case Study](https://jlsonon.xyz/projects/bingogame) |
+
+> 10 production systems & deep architecture reviews at **[jlsonon.xyz](https://jlsonon.xyz)**.
 
 ---
 
-### Technical Architecture & Tooling
+### What I Build
 
-```text
-Frontend & Mobile   │ Next.js 15, React 19, TypeScript, Tailwind CSS, GSAP, SwiftUI
-Backend & APIs      │ Node.js, Express, RESTful APIs, Serverless Functions, C# .NET
-Databases & Cloud   │ PostgreSQL, Firebase / Firestore, Supabase, Vercel, Netlify
-Hardware & Systems  │ Core Audio / AVAudioEngine, CoreHaptics, Thermal Printers (ESC/POS)
-DevOps & Workflows  │ Git, Docker, GitHub Actions, Figma, Linux
-```
-
----
-
-### What I Build For Growing Businesses
-
-* **Gyms & Fitness Facilities**: Sub-second QR athlete check-in kiosks, membership management, front-desk POS, and multi-branch revenue tracking *(e.g. Playground Fitness & TrainFitness)*.
-* **Laundromats & Service Centers**: Drop-off ticketing, weight-based calculations, digital claim lookup, and thermal receipt workflows.
-* **EdTech & Review Centers**: Timed testing simulators, automated question randomized pools, and student diagnostic analytics *(500+ students on Prime Reviewer)*.
-* **Founders & Local SMBs**: Bespoke client portals, subscription billing, and automated operational pipelines.
+* **Gyms & Fitness**: Sub-second QR check-in kiosks, membership POS & branch tracking.
+* **Laundromats & Retail**: Order queueing, thermal ESC/POS receipts & claim lookups.
+* **EdTech & Testing**: Timed exam simulators & diagnostic analytics *(500+ students)*.
+* **SMBs & Operations**: Bespoke client portals, subscription billing & operational tooling.
 
 ---
 
 ```text
-[Current Desk Setup]
-Daily Driver    : MacBook Pro + Custom 65% Mechanical Keyboard
-Sound Profile   : Holy Panda 67g tactile switches (sub-5ms CoreAudio latency)
-Status          : Engineering custom POS & business platforms
-Beverage        : Fresh pour-over coffee
+Driver │ MacBook Pro • Custom 65% Mechanical (Holy Panda 67g tactile)
+Focus  │ Engineering low-latency POS systems, business platforms & AI HUDs
 ```
-
 ---
 
 ### Contact & Links
