@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=Jericho%20Sonon&fontSize=42&fontColor=f59e0b&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Solutions%20Engineer&descSize=16&descColor=a3a3a3&descAlignY=60" width="100%" />
+# Jericho Sonon
+### Software & Solutions Engineer • Full-Stack Systems Builder
+**Quezon City, Philippines** • [jlsonon.xyz](https://jlsonon.xyz) • [LinkedIn](https://www.linkedin.com/in/jlsonon/) • [Medium](https://medium.com/@jlsonon12)
 
 <!-- Interactive Typing Header -->
 <a href="https://jlsonon.xyz">
@@ -23,19 +25,6 @@
   </a>
 </p>
 
-</div>
-
----
-
-### Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlsonon&theme=github-dark&hide_border=true&color=f59e0b" alt="Contribution Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlsonon&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=262626&title_color=f59e0b&icon_color=f59e0b&text_color=d4d4d4" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlsonon&layout=compact&theme=dark&bg_color=0a0a0a&border_color=262626&title_color=f59e0b&text_color=d4d4d4" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -64,6 +53,9 @@ Backend & APIs      │ Node.js, Express, RESTful APIs, Serverless Functions, C#
 Databases & Cloud   │ PostgreSQL, Firebase / Firestore, Supabase, Vercel, Netlify
 Hardware & Systems  │ Core Audio / AVAudioEngine, CoreHaptics, Thermal Printers (ESC/POS)
 DevOps & Workflows  │ Git, Docker, GitHub Actions, Figma, Linux
+<div align="center">
+  <sub>Designed and built by <b>Jericho Sonon</b> • Production systems at <a href="https://jlsonon.xyz"><b>jlsonon.xyz</b></a></sub>
+</div>
 ```
 
 ---
