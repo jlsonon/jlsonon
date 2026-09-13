@@ -53,9 +53,6 @@ Backend & APIs      │ Node.js, Express, RESTful APIs, Serverless Functions, C#
 Databases & Cloud   │ PostgreSQL, Firebase / Firestore, Supabase, Vercel, Netlify
 Hardware & Systems  │ Core Audio / AVAudioEngine, CoreHaptics, Thermal Printers (ESC/POS)
 DevOps & Workflows  │ Git, Docker, GitHub Actions, Figma, Linux
-<div align="center">
-  <sub>Designed and built by <b>Jericho Sonon</b> • Production systems at <a href="https://jlsonon.xyz"><b>jlsonon.xyz</b></a></sub>
-</div>
 ```
 
 ---
