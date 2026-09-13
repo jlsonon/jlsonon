@@ -63,7 +63,7 @@
 ---
 
 ```text
-Driver │ MacBook Pro • Custom 65% Mechanical (Holy Panda 67g tactile)
+Driver │ MacBook Air 
 Focus  │ Engineering low-latency POS systems, business platforms & AI HUDs
 ```
 ---
